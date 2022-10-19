@@ -1,4 +1,4 @@
-# appbir_frontend_source
+# appbir_frontend_source [已被 appbir-resource-staticst替换]
 提供所有appbir_frontend 需要的在线资源
 
 
